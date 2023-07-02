@@ -1,6 +1,6 @@
 # download-textbook
 ## 简单介绍
-从(国家中小学教育智慧平台)[https://basic.smartedu.cn/]中爬取所有教科书。
+从[国家中小学教育智慧平台](https://basic.smartedu.cn/)中爬取所有教科书。
 运行时间：
 数据规格：
 
