@@ -5,10 +5,13 @@
 数据规格：
 
 ## 前期准备
-代码运行需要安装的库：selenium,requests,re,fake_useragent
-另外需要下载对应版本和对应浏览器的selenium driver
-用到的爬虫知识主要是selenium和requests
-注册一个账号，并复制当前的cookie
++ 代码运行需要安装的库：selenium,requests,re,fake_useragent
+
++ 另外需要下载对应版本和对应浏览器的selenium driver
+
++ 用到的爬虫知识主要是selenium和requests 
+
++ 注册一个账号，并复制当前的cookie
 
 ## 注意事项
 - 代码成功运行后可以自动下载小学和初中的所有教科书，下载高中教科书需要删除grade相关的代码，详见新文件。
